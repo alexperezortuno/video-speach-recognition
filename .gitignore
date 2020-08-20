@@ -130,3 +130,5 @@ dmypy.json
 recognized.txt
 video_recording.mov
 converted.wav
+*.json
+.idea/*
