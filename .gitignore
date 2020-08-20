@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+recognized.txt
+video_recording.mov
+converted.wav
